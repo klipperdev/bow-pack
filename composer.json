@@ -1,0 +1,19 @@
+{
+    "name": "klipper/bow-pack",
+    "type": "symfony-pack",
+    "description": "Pack for Bow on Klipper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "François Pluchino",
+            "email": "francois.pluchino@klipper.dev"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0-dev"
+        }
+    }
+}
