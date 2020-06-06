@@ -12,6 +12,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
+        "foxy/foxy": "^1.0.0",
         "klipper/bow-bundle": "^2.0.0"
     },
     "extra": {
