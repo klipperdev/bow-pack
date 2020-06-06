@@ -11,6 +11,9 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "require": {
+        "klipper/bow-bundle": "^2.0.0"
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "2.0-dev"
